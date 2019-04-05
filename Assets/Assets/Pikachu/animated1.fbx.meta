@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: c7770b725ad4687438b7084f9e14bca8
+timeCreated: 1551163198
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pikachu_2018_rig_final:body_01
+    100004: Pikachu_2018_rig_final:body_02
+    100006: Pikachu_2018_rig_final:body_03
+    100008: Pikachu_2018_rig_final:body_04
+    100010: Pikachu_2018_rig_final:curve1
+    100012: Pikachu_2018_rig_final:curve2
+    100014: Pikachu_2018_rig_final:curve3
+    100016: Pikachu_2018_rig_final:face_ctrl
+    100018: Pikachu_2018_rig_final:Head_01
+    100020: Pikachu_2018_rig_final:Head_02
+    100022: Pikachu_2018_rig_final:Head_03
+    100024: Pikachu_2018_rig_final:Head_04
+    100026: Pikachu_2018_rig_final:head_ctrl
+    100028: Pikachu_2018_rig_final:ikHandle1
+    100030: Pikachu_2018_rig_final:ikHandle2
+    100032: Pikachu_2018_rig_final:Lf_ear_01
+    100034: Pikachu_2018_rig_final:Lf_ear_03
+    100036: Pikachu_2018_rig_final:Lf_ear_2
+    100038: Pikachu_2018_rig_final:Lf_hand_01
+    100040: Pikachu_2018_rig_final:Lf_hand_02
+    100042: Pikachu_2018_rig_final:Lf_hand_03
+    100044: Pikachu_2018_rig_final:Lf_hand_04
+    100046: Pikachu_2018_rig_final:Lf_hand_05
+    100048: Pikachu_2018_rig_final:Lf_leg_01
+    100050: Pikachu_2018_rig_final:Lf_leg_02
+    100052: Pikachu_2018_rig_final:Lf_leg_03
+    100054: Pikachu_2018_rig_final:Lf_leg_05
+    100056: Pikachu_2018_rig_final:Lf_leg_06
+    100058: Pikachu_2018_rig_final:Lf_leg_07
+    100060: Pikachu_2018_rig_final:Main
+    100062: Pikachu_2018_rig_final:nurbsCircle1
+    100064: Pikachu_2018_rig_final:nurbsCircle10
+    100066: Pikachu_2018_rig_final:nurbsCircle2
+    100068: Pikachu_2018_rig_final:nurbsCircle3
+    100070: Pikachu_2018_rig_final:nurbsCircle4
+    100072: Pikachu_2018_rig_final:nurbsCircle5
+    100074: Pikachu_2018_rig_final:nurbsCircle6
+    100076: Pikachu_2018_rig_final:nurbsCircle7
+    100078: Pikachu_2018_rig_final:nurbsCircle8
+    100080: Pikachu_2018_rig_final:nurbsCircle9
+    100082: Pikachu_2018_rig_final:PikachuM
+    100084: Pikachu_2018_rig_final:Rt_ear_01
+    100086: Pikachu_2018_rig_final:Rt_ear_03
+    100088: Pikachu_2018_rig_final:Rt_ear_2
+    100090: Pikachu_2018_rig_final:Rt_hand_01
+    100092: Pikachu_2018_rig_final:Rt_hand_02
+    100094: Pikachu_2018_rig_final:Rt_hand_03
+    100096: Pikachu_2018_rig_final:Rt_hand_04
+    100098: Pikachu_2018_rig_final:Rt_hand_05
+    100100: Pikachu_2018_rig_final:Rt_leg_01
+    100102: Pikachu_2018_rig_final:Rt_leg_02
+    100104: Pikachu_2018_rig_final:Rt_leg_03
+    100106: Pikachu_2018_rig_final:Rt_leg_05
+    100108: Pikachu_2018_rig_final:Rt_leg_06
+    100110: Pikachu_2018_rig_final:Rt_leg_07
+    100112: Pikachu_2018_rig_final:tail_01
+    100114: Pikachu_2018_rig_final:tail_02
+    100116: Pikachu_2018_rig_final:tail_03
+    100118: Pikachu_2018_rig_final:tail_04
+    100120: Pikachu_2018_rig_final:tail_05
+    100122: Pikachu_2018_rig_final:tail_06
+    100124: Pikachu_2018_rig_final:tail_07
+    100126: Pikachu_2018_rig_final:tail_08
+    400000: //RootNode
+    400002: Pikachu_2018_rig_final:body_01
+    400004: Pikachu_2018_rig_final:body_02
+    400006: Pikachu_2018_rig_final:body_03
+    400008: Pikachu_2018_rig_final:body_04
+    400010: Pikachu_2018_rig_final:curve1
+    400012: Pikachu_2018_rig_final:curve2
+    400014: Pikachu_2018_rig_final:curve3
+    400016: Pikachu_2018_rig_final:face_ctrl
+    400018: Pikachu_2018_rig_final:Head_01
+    400020: Pikachu_2018_rig_final:Head_02
+    400022: Pikachu_2018_rig_final:Head_03
+    400024: Pikachu_2018_rig_final:Head_04
+    400026: Pikachu_2018_rig_final:head_ctrl
+    400028: Pikachu_2018_rig_final:ikHandle1
+    400030: Pikachu_2018_rig_final:ikHandle2
+    400032: Pikachu_2018_rig_final:Lf_ear_01
+    400034: Pikachu_2018_rig_final:Lf_ear_03
+    400036: Pikachu_2018_rig_final:Lf_ear_2
+    400038: Pikachu_2018_rig_final:Lf_hand_01
+    400040: Pikachu_2018_rig_final:Lf_hand_02
+    400042: Pikachu_2018_rig_final:Lf_hand_03
+    400044: Pikachu_2018_rig_final:Lf_hand_04
+    400046: Pikachu_2018_rig_final:Lf_hand_05
+    400048: Pikachu_2018_rig_final:Lf_leg_01
+    400050: Pikachu_2018_rig_final:Lf_leg_02
+    400052: Pikachu_2018_rig_final:Lf_leg_03
+    400054: Pikachu_2018_rig_final:Lf_leg_05
+    400056: Pikachu_2018_rig_final:Lf_leg_06
+    400058: Pikachu_2018_rig_final:Lf_leg_07
+    400060: Pikachu_2018_rig_final:Main
+    400062: Pikachu_2018_rig_final:nurbsCircle1
+    400064: Pikachu_2018_rig_final:nurbsCircle10
+    400066: Pikachu_2018_rig_final:nurbsCircle2
+    400068: Pikachu_2018_rig_final:nurbsCircle3
+    400070: Pikachu_2018_rig_final:nurbsCircle4
+    400072: Pikachu_2018_rig_final:nurbsCircle5
+    400074: Pikachu_2018_rig_final:nurbsCircle6
+    400076: Pikachu_2018_rig_final:nurbsCircle7
+    400078: Pikachu_2018_rig_final:nurbsCircle8
+    400080: Pikachu_2018_rig_final:nurbsCircle9
+    400082: Pikachu_2018_rig_final:PikachuM
+    400084: Pikachu_2018_rig_final:Rt_ear_01
+    400086: Pikachu_2018_rig_final:Rt_ear_03
+    400088: Pikachu_2018_rig_final:Rt_ear_2
+    400090: Pikachu_2018_rig_final:Rt_hand_01
+    400092: Pikachu_2018_rig_final:Rt_hand_02
+    400094: Pikachu_2018_rig_final:Rt_hand_03
+    400096: Pikachu_2018_rig_final:Rt_hand_04
+    400098: Pikachu_2018_rig_final:Rt_hand_05
+    400100: Pikachu_2018_rig_final:Rt_leg_01
+    400102: Pikachu_2018_rig_final:Rt_leg_02
+    400104: Pikachu_2018_rig_final:Rt_leg_03
+    400106: Pikachu_2018_rig_final:Rt_leg_05
+    400108: Pikachu_2018_rig_final:Rt_leg_06
+    400110: Pikachu_2018_rig_final:Rt_leg_07
+    400112: Pikachu_2018_rig_final:tail_01
+    400114: Pikachu_2018_rig_final:tail_02
+    400116: Pikachu_2018_rig_final:tail_03
+    400118: Pikachu_2018_rig_final:tail_04
+    400120: Pikachu_2018_rig_final:tail_05
+    400122: Pikachu_2018_rig_final:tail_06
+    400124: Pikachu_2018_rig_final:tail_07
+    400126: Pikachu_2018_rig_final:tail_08
+    2100000: Pikachu_2018_rig_final_body
+    2100002: Pikachu_2018_rig_final_face
+    2100004: Pikachu_2018_rig_final_mouth
+    2100006: Pikachu_2018_rig_final_eye
+    4300000: Pikachu_2018_rig_final:PikachuM
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Pikachu_2018_rig_final:PikachuM
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

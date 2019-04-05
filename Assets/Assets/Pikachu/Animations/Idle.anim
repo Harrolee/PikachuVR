@@ -1,0 +1,4985 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Idle
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.051420715, y: 0.3102772, z: -0.9364814, w: 0.15519841}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:ikHandle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.15527143, y: 0.93692094, z: 0.30894727, w: -0.051200494}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:ikHandle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.000000008691507, y: -0.998576, z: -0.053348087, w: -0.00000016268868}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.044250753, y: 2.3923697e-19, z: -5.4085854e-18, w: 0.99902046}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.044250753, y: 2.3923697e-19, z: -5.4085854e-18, w: 0.99902046}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.044250753, y: 2.3923697e-19, z: -5.4085854e-18, w: 0.99902046}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.049739987, y: -3.0456945e-18, z: -6.1156546e-17, w: 0.9987622}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.033485856, y: 6.365407e-18, z: -6.090058e-17, w: 0.9994392}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.39949507, y: 0.6054981, z: 0.19097798, w: 0.66128904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.3994952, y: 0.6054979, z: 0.19097805, w: 0.6612891}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.10666406, y: -0.03609363, z: -0.004058976, w: 0.9936315}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.24007645, y: 0.08037392, z: 0.00708073, w: 0.9673951}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.10767486, y: -0.036435597, z: -0.004058443, w: 0.99351007}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0004941405, y: 0.00016543135, z: 0.0073191766, w: 0.9999731}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.6696325, y: 2.146097e-17, z: -4.3589586e-17, w: 0.7426926}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.1495025, y: 0.14298183, z: 0.48849392, w: 0.84769034}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.50052506, y: 0.01924254, z: 0.24189359, w: 0.83101857}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.91011196, y: -0.024773858, z: -0.1175009, w: 0.3965805}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.05606202, y: -0.015041207, z: 0.0008446648, w: 0.9983136}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06/Pikachu_2018_rig_final:Lf_leg_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.14995903, y: 0.1425517, z: 0.48866653, w: 0.84758264}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.50052506, y: 0.01924254, z: 0.24189359, w: 0.83101857}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.91011196, y: -0.024773858, z: -0.1175009, w: 0.3965805}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.05606202, y: -0.015041207, z: 0.0008446648, w: 0.9983136}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06/Pikachu_2018_rig_final:Rt_leg_07
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: {x: -0.064036675, y: 0.007772943, z: -0.008827139}
+        inSlope: {x: 3.0134626e-15, y: 0, z: 0}
+        outSlope: {x: 3.0134626e-15, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:ikHandle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: {x: 0.065492, y: 0.00777294, z: -0.008827136}
+        inSlope: {x: 9.516198e-16, y: 0, z: 0}
+        outSlope: {x: 9.516198e-16, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:ikHandle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: {x: 0.00072768185, y: 0.05910648, z: 0.006086267}
+        inSlope: {x: 1.486906e-17, y: 0, z: 0}
+        outSlope: {x: 1.486906e-17, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0035417932, y: 0.047409065, z: -0.0036845268}
+        inSlope: {x: -0.0001890608, y: 0, z: 0}
+        outSlope: {x: -0.0001890608, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0035480568, y: -0.04739207, z: 0.0034964727}
+        inSlope: {x: 0.00018906778, y: 0, z: 0}
+        outSlope: {x: 0.00018906778, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:nurbsCircle2
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 1159450492
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3687056480
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2797160232
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1068504722
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1561984875
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2514745014
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2797160232
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1068504722
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1561984875
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3422777887
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1650912331
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1336482821
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3436648080
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1493040012
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 763217946
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2943978180
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 522197488
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1159450492
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4086529108
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3687056480
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1513887337
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3981704309
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 241052057
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1561180252
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1486177727
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 617759921
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2361001956
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4217225919
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 821252533
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2335295847
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 624623014
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1561984875
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3436648080
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1493040012
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 763217946
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2943978180
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 522197488
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1159450492
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4086529108
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3687056480
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1513887337
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3981704309
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 241052057
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1561180252
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1486177727
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2361001956
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4217225919
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 821252533
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2335295847
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.008333333
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: -0.064036675
+        inSlope: 3.0134626e-15
+        outSlope: 3.0134626e-15
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: 0.007772943
+        inSlope: 0.02727382
+        outSlope: 0.02727382
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: -0.008827139
+        inSlope: 0.0024226853
+        outSlope: 0.0024226853
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.051420715
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3102772
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.9364814
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.15519841
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: 0.065492
+        inSlope: 9.516198e-16
+        outSlope: 9.516198e-16
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: 0.00777294
+        inSlope: 0.02727382
+        outSlope: 0.02727382
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: -0.008827136
+        inSlope: 0.0024226853
+        outSlope: 0.0024226853
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.15527143
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.93692094
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.30894727
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.051200494
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: 0.00072768185
+        inSlope: 1.486906e-17
+        outSlope: 1.486906e-17
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: 0.05910648
+        inSlope: 0.022525148
+        outSlope: 0.022525148
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0.008333333
+        value: 0.006086267
+        inSlope: 0.018524522
+        outSlope: 0.018524522
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000000008691507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.998576
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.053348087
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00000016268868
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.044250753
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.3923697e-19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.4085854e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99902046
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.044250753
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.3923697e-19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.4085854e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99902046
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.044250753
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.3923697e-19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.4085854e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99902046
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.049739987
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -3.0456945e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.1156546e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9987622
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.033485856
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6.365407e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.090058e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9994392
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.39949507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6054981
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.19097798
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.66128904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3994952
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6054979
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.19097805
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6612891
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.10666406
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.03609363
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.004058976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9936315
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0035417932
+        inSlope: -0.0001890608
+        outSlope: -0.0001890608
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.047409065
+        inSlope: 0.00055141747
+        outSlope: 0.00055141747
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0036845268
+        inSlope: -0.0017142947
+        outSlope: -0.0017142947
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.24007645
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.08037392
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00708073
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9673951
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.10767486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.036435597
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.004058443
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.99351007
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0035480568
+        inSlope: 0.00018906778
+        outSlope: 0.00018906778
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.04739207
+        inSlope: -0.0005513057
+        outSlope: -0.0005513057
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0034964727
+        inSlope: 0.0017143016
+        outSlope: 0.0017143016
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0004941405
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00016543135
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0073191766
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9999731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6696325
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 2.146097e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -4.3589586e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.7426926
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1495025
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.14298183
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.48849392
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.84769034
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.50052506
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01924254
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.24189359
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.83101857
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.91011196
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.024773858
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1175009
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3965805
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.05606202
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.015041207
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0008446648
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9983136
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06/Pikachu_2018_rig_final:Lf_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06/Pikachu_2018_rig_final:Lf_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06/Pikachu_2018_rig_final:Lf_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06/Pikachu_2018_rig_final:Lf_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.14995903
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1425517
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.48866653
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.84758264
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.50052506
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.01924254
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.24189359
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.83101857
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.91011196
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.024773858
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1175009
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.3965805
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.05606202
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.015041207
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0008446648
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.9983136
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06/Pikachu_2018_rig_final:Rt_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06/Pikachu_2018_rig_final:Rt_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06/Pikachu_2018_rig_final:Rt_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06/Pikachu_2018_rig_final:Rt_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pikachu_2018_rig_final:nurbsCircle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0.000000007482883
+        outSlope: 0.000000007482883
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pikachu_2018_rig_final:nurbsCircle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pikachu_2018_rig_final:nurbsCircle2
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 36.66237
+        inSlope: -3.120116
+        outSlope: -3.120116
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0000031929978
+        inSlope: 0.0011494788
+        outSlope: 0.0011494788
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -161.18034
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:ikHandle1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -36.499676
+        inSlope: -9.056853
+        outSlope: -9.056853
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 18.819654
+        inSlope: 0.00022888182
+        outSlope: 0.00022888182
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:ikHandle2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.116143
+        inSlope: -18.469505
+        outSlope: -18.469505
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 7.056877e-15
+        inSlope: -2.8227507e-13
+        outSlope: -2.8227507e-13
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.0724187
+        inSlope: -3.0520983
+        outSlope: -3.0520983
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.502884e-17
+        inSlope: -9.433514e-16
+        outSlope: -9.433514e-16
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.228233e-16
+        inSlope: 1.0676971e-14
+        outSlope: 1.0676971e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.0724187
+        inSlope: -3.0520983
+        outSlope: -3.0520983
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.502884e-17
+        inSlope: -9.433514e-16
+        outSlope: -9.433514e-16
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.228233e-16
+        inSlope: 1.0676971e-14
+        outSlope: 1.0676971e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -5.0724187
+        inSlope: -3.0520983
+        outSlope: -3.0520983
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.502884e-17
+        inSlope: -9.433514e-16
+        outSlope: -9.433514e-16
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.228233e-16
+        inSlope: 1.0676971e-14
+        outSlope: 1.0676971e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.702135
+        inSlope: -15.614022
+        outSlope: -15.614022
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -7.006247e-16
+        inSlope: 3.6032124e-14
+        outSlope: 3.6032124e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -7.051602e-15
+        inSlope: 3.6265375e-13
+        outSlope: 3.6265375e-13
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -3.8379138
+        inSlope: 3.4824886
+        outSlope: 3.4824886
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 9.648641e-16
+        inSlope: -2.3156739e-14
+        outSlope: -2.3156739e-14
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -7.0149346e-15
+        inSlope: 1.6835844e-13
+        outSlope: 1.6835844e-13
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 17.282894
+        inSlope: 0.055755615
+        outSlope: 0.055755615
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 93.14874
+        inSlope: -3.647461
+        outSlope: -3.647461
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 50.460854
+        inSlope: -1.083435
+        outSlope: -1.083435
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Lf_ear_01/Pikachu_2018_rig_final:Lf_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 17.282902
+        inSlope: 0.05557251
+        outSlope: 0.05557251
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 93.148735
+        inSlope: -3.6465454
+        outSlope: -3.6465454
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 50.46087
+        inSlope: -1.0838013
+        outSlope: -1.0838013
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Head_01/Pikachu_2018_rig_final:Rt_ear_01/Pikachu_2018_rig_final:Rt_ear_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -12.254975
+        inSlope: 0.000020195455
+        outSlope: 0.000020195455
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -4.158398
+        inSlope: -0.000070684095
+        outSlope: -0.000070684095
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.021486636
+        inSlope: 0.00004788532
+        outSlope: 0.00004788532
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 27.60409
+        inSlope: 0.000022149854
+        outSlope: 0.000022149854
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 10.330049
+        inSlope: -0.0000036916424
+        outSlope: -0.0000036916424
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 3.3828964
+        inSlope: 0.00002953314
+        outSlope: 0.00002953314
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Lf_hand_01/Pikachu_2018_rig_final:Lf_hand_02/Pikachu_2018_rig_final:Lf_hand_03/Pikachu_2018_rig_final:Lf_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -12.371402
+        inSlope: -4.4700885
+        outSlope: -4.4700885
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -4.199218
+        inSlope: -1.5693811
+        outSlope: -1.5693811
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.012776446
+        inSlope: 0.33859742
+        outSlope: 0.33859742
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.056484055
+        inSlope: -2.6121008
+        outSlope: -2.6121008
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.019370977
+        inSlope: -0.896018
+        outSlope: -0.896018
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.8387329
+        inSlope: -0.0000841801
+        outSlope: -0.0000841801
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:body_02/Pikachu_2018_rig_final:body_03/Pikachu_2018_rig_final:body_04/Pikachu_2018_rig_final:Rt_hand_01/Pikachu_2018_rig_final:Rt_hand_02/Pikachu_2018_rig_final:Rt_hand_03/Pikachu_2018_rig_final:Rt_hand_04
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 84.07741
+        inSlope: 27.053831
+        outSlope: 27.053831
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.471488e-14
+        inSlope: 1.7657854e-12
+        outSlope: 1.7657854e-12
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.9992876e-14
+        inSlope: 2.399145e-12
+        outSlope: 2.399145e-12
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:body_01/Pikachu_2018_rig_final:tail_01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6.5328097
+        inSlope: -0.15226364
+        outSlope: -0.15226364
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 23.017334
+        inSlope: 0.031666476
+        outSlope: 0.031666476
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 61.238163
+        inSlope: -0.08570952
+        outSlope: -0.08570952
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -57.267105
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -22.872099
+        inSlope: -0.0000041614876
+        outSlope: -0.0000041614876
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 45.063618
+        inSlope: -0.000008322975
+        outSlope: -0.000008322975
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 45.728764
+        inSlope: -0.0013732904
+        outSlope: -0.0013732904
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -160.45541
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -168.5736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.4254036
+        inSlope: 0.000008322975
+        outSlope: 0.000008322975
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.7372925
+        inSlope: 0.0000067624173
+        outSlope: 0.0000067624173
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.19447847
+        inSlope: -0.000011346556
+        outSlope: -0.000011346556
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06/Pikachu_2018_rig_final:Lf_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06/Pikachu_2018_rig_final:Lf_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Lf_leg_01/Pikachu_2018_rig_final:Lf_leg_02/Pikachu_2018_rig_final:Lf_leg_03/Pikachu_2018_rig_final:Lf_leg_05/Pikachu_2018_rig_final:Lf_leg_06/Pikachu_2018_rig_final:Lf_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 6.5969815
+        inSlope: 3.2525616
+        outSlope: 3.2525616
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 23.004044
+        inSlope: -0.67116475
+        outSlope: -0.67116475
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 61.2743
+        inSlope: 1.830472
+        outSlope: 1.830472
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -57.267105
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -22.872099
+        inSlope: -0.0000041614876
+        outSlope: -0.0000041614876
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 45.063618
+        inSlope: -0.000008322975
+        outSlope: -0.000008322975
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 45.728764
+        inSlope: -0.00045776364
+        outSlope: -0.00045776364
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -160.45541
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -168.5736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.4254036
+        inSlope: 0.000008322975
+        outSlope: 0.000008322975
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.7372925
+        inSlope: 0.0000067624173
+        outSlope: 0.0000067624173
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.19447847
+        inSlope: -0.000011346556
+        outSlope: -0.000011346556
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06/Pikachu_2018_rig_final:Rt_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06/Pikachu_2018_rig_final:Rt_leg_07
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pikachu_2018_rig_final:Main/Pikachu_2018_rig_final:Rt_leg_01/Pikachu_2018_rig_final:Rt_leg_02/Pikachu_2018_rig_final:Rt_leg_03/Pikachu_2018_rig_final:Rt_leg_05/Pikachu_2018_rig_final:Rt_leg_06/Pikachu_2018_rig_final:Rt_leg_07
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

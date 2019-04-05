@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 36cf3dcab6e5aae45ae4a1b16e107a6e
+timeCreated: 1550793545
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body_01
+    100002: body_02
+    100004: body_03
+    100006: body_04
+    100008: //RootNode
+    100010: Head_01
+    100012: Head_02
+    100014: Head_03
+    100016: Head_04
+    100018: Lf_ear_01
+    100020: Lf_ear_03
+    100022: Lf_ear_2
+    100024: Lf_hand_01
+    100026: Lf_hand_02
+    100028: Lf_hand_03
+    100030: Lf_hand_04
+    100032: Lf_hand_05
+    100034: Lf_leg_01
+    100036: Lf_leg_02
+    100038: Lf_leg_03
+    100040: Lf_leg_05
+    100042: Lf_leg_06
+    100044: Lf_leg_07
+    100046: Main
+    100048: PikachuM
+    100050: Rt_ear_01
+    100052: Rt_ear_03
+    100054: Rt_ear_2
+    100056: Rt_hand_01
+    100058: Rt_hand_02
+    100060: Rt_hand_03
+    100062: Rt_hand_04
+    100064: Rt_hand_05
+    100066: Rt_leg_01
+    100068: Rt_leg_02
+    100070: Rt_leg_03
+    100072: Rt_leg_05
+    100074: Rt_leg_06
+    100076: Rt_leg_07
+    100078: tail_01
+    100080: tail_02
+    100082: tail_03
+    100084: tail_04
+    100086: tail_05
+    100088: tail_06
+    100090: tail_07
+    100092: tail_08
+    400000: body_01
+    400002: body_02
+    400004: body_03
+    400006: body_04
+    400008: //RootNode
+    400010: Head_01
+    400012: Head_02
+    400014: Head_03
+    400016: Head_04
+    400018: Lf_ear_01
+    400020: Lf_ear_03
+    400022: Lf_ear_2
+    400024: Lf_hand_01
+    400026: Lf_hand_02
+    400028: Lf_hand_03
+    400030: Lf_hand_04
+    400032: Lf_hand_05
+    400034: Lf_leg_01
+    400036: Lf_leg_02
+    400038: Lf_leg_03
+    400040: Lf_leg_05
+    400042: Lf_leg_06
+    400044: Lf_leg_07
+    400046: Main
+    400048: PikachuM
+    400050: Rt_ear_01
+    400052: Rt_ear_03
+    400054: Rt_ear_2
+    400056: Rt_hand_01
+    400058: Rt_hand_02
+    400060: Rt_hand_03
+    400062: Rt_hand_04
+    400064: Rt_hand_05
+    400066: Rt_leg_01
+    400068: Rt_leg_02
+    400070: Rt_leg_03
+    400072: Rt_leg_05
+    400074: Rt_leg_06
+    400076: Rt_leg_07
+    400078: tail_01
+    400080: tail_02
+    400082: tail_03
+    400084: tail_04
+    400086: tail_05
+    400088: tail_06
+    400090: tail_07
+    400092: tail_08
+    2100000: body
+    2100002: face
+    2100004: mouth
+    2100006: eye
+    4300000: PikachuM
+    9500000: //RootNode
+    13700000: PikachuM
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 821fa2c89d2bd5d45ae7548302153eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2100000, guid: 50142422136d3824f8b9ccf339a7cebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face
+    second: {fileID: 2100000, guid: c11040b8a26ee534fa807db2a5c2dd73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth
+    second: {fileID: 2100000, guid: 2b2a25f2f1f0764498f4366736c96822, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
